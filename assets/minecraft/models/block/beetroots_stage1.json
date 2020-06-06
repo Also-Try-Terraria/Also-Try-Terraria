@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross_crop",
+    "textures": {
+        "cross": "block/beetroots_stage1"
+    }
+}

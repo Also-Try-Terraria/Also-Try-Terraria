@@ -1,0 +1,1 @@
+biomes=beach stone_shore warm_ocean lukewarm_ocean deep_lukewarm_ocean ocean deep_ocean cold_ocean deep_cold_ocean frozen_ocean deep_frozen_ocean

@@ -1,0 +1,26 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"6": "block/smithing_table_other_side",
+		"7": "block/smithing_table_back",
+		"9": "block/smithing_table_front",
+		"10": "block/smithing_table_side",
+		"11": "block/smithing_table_top",
+		"particle": "block/smithing_table_other_side"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#9", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#10", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#7", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#6", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#11", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#down", "cullface": "down"}
+			}
+		}
+	]
+}

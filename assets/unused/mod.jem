@@ -1,0 +1,31 @@
+{
+	"texture": "pig.png",
+	"textureSize": [64, 32],
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -13, -2],
+			"rotate": [180, -180, -180],
+			"mirrorTexture": "u",
+			"submodels": [
+				{
+					"id": "body_sub_0",
+					"invertAxis": "xy",
+					"translate": [0, -13, -2],
+					"mirrorTexture": "u",
+					"boxes": [
+						{"coordinates": [-5, 20, -3, 10, 16, 8], "textureOffset": [28, 8]},
+						{"coordinates": [-11, 9, 1, 2, 10, 1], "textureOffset": [56, 5]},
+						{"coordinates": [-9, 10, 1, 5, 10, 1], "textureOffset": [16, 20]},
+						{"coordinates": [-12, 8, 1, 1, 10, 1], "textureOffset": [32, 5]},
+						{"coordinates": [11, 8, 1, 1, 10, 1], "textureOffset": [32, 5]},
+						{"coordinates": [4, 10, 1, 5, 10, 1], "textureOffset": [16, 20]},
+						{"coordinates": [9, 9, 1, 2, 10, 1], "textureOffset": [56, 5]}
+					]
+				}
+			]
+		}
+	]
+}

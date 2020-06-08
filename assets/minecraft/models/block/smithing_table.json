@@ -7,6 +7,7 @@
 		"9": "block/smithing_table_front",
 		"10": "block/smithing_table_side",
 		"11": "block/smithing_table_top",
+		"12": "block/smithing_table_bottom",
 		"particle": "block/smithing_table_other_side"
 	},
 	"elements": [
@@ -19,7 +20,7 @@
 				"south": {"uv": [0, 0, 16, 16], "texture": "#7", "cullface": "south"},
 				"west": {"uv": [0, 0, 16, 16], "texture": "#6", "cullface": "west"},
 				"up": {"uv": [0, 0, 16, 16], "texture": "#11", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#down", "cullface": "down"}
+				"down": {"uv": [0, 0, 16, 16], "texture": "#12", "cullface": "down"}
 			}
 		}
 	]

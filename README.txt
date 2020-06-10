@@ -29,7 +29,7 @@ The lovely creators:
 
 - Vopec_
 
-- WelBehavedUser
+- WellBehavedUser
 
 - WoomySquad
 

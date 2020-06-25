@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-            { "model": "block/nether_bricks", "weight": 16 },
-            { "model": "block/nether_bricks1", "weight": 16 },
-            { "model": "block/nether_bricks2", "weight": 1 }
-        ]
-    }
-}

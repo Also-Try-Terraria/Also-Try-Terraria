@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+    "gui_light": "front",
 	"textures": {
 		"0": "item/cobalt_shield",
 		"1": "item/cobalt_shield_back",
